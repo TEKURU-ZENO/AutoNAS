@@ -1,4 +1,4 @@
-# AutoNAS  
+# AutoNAS  *(Work in Progress)*
 ### Automated Neural Architecture Search & Hyperparameter Optimization System
 
 AutoNAS is a scalable, distributed AutoML system that automatically designs, trains, and optimizes neural networks using Neural Architecture Search (NAS), evolutionary algorithms, and Bayesian hyperparameter optimization.
